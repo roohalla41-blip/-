@@ -1,0 +1,33 @@
+{
+  "name": "حساب صراف",
+  "short_name": "حساب صراف",
+  "description": "سامانه جامع مدیریت عملیات صرافی، تبدیل ارز و حسابداری",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b46f6",
+  "dir": "rtl",
+  "lang": "fa",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://media.base44.com/images/public/6a60eae221cd7c451bd6387c/2ae17232f_generated_image.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://media.base44.com/images/public/6a60eae221cd7c451bd6387c/2ae17232f_generated_image.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
